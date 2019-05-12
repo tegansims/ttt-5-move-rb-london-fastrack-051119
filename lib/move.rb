@@ -9,11 +9,11 @@ end
 # code your input_to_index and move method here!
 def input_to_index(position)
   puts "what position do you want to go?"
-  gets answer-1.to_i
-  puts answer-1
+  gets answer.to_i
+  puts answer
 end
 
-input_to_index(position)
+input_to_index
 
 def move(array, index, character="X")
 end
