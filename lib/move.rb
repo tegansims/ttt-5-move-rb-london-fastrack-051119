@@ -13,7 +13,7 @@ def input_to_index(position)
   puts answer
 end
 
-input_to_index
+input_to_index(position)
 
 def move(array, index, character="X")
 end
