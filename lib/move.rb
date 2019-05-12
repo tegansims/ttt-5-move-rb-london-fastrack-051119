@@ -13,5 +13,7 @@ def input_to_index(position)
   puts answer-1
 end
 
+input_to_index(position)
+
 def move(array, index, character="X")
 end
