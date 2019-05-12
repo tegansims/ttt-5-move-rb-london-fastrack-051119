@@ -10,6 +10,7 @@ end
 def input_to_index(position)
   puts "what position do you want to go?"
   gets answer-1.to_i
+  puts answer-1
 end
 
 def move(array, index, character="X")
